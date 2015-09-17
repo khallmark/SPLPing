@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <UIKit/UIKit.h>
+//#import <UIKit/UIKit.h>
 
 #import <SPLPing/SPLPingConfiguration.h>
 #import <SPLPing/SPLPingResponse.h>
